@@ -1,7 +1,7 @@
 // Description:
 //   ZeroBot Introduce.
 //
-
+/*
 module.exports = function(robot){
   robot.hear(/help/i, function(res){
     res.send("ZeroBot은 hubot을 기반으로 한 robot입니다.");
@@ -10,3 +10,4 @@ module.exports = function(robot){
     res.send("※ Zerobot을 사용하기 위해서는 각 채널에 초대를 하시기 바랍니다.");
   });
 }
+*/
